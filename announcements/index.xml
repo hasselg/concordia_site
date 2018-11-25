@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcements on Concordia Lutheran Church</title>
+    <link>http://dev.concordialutheranwatertown.com/announcements/</link>
+    <description>Recent content in Announcements on Concordia Lutheran Church</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Nov 2018 17:10:06 -0600</lastBuildDate>
+    
+	<atom:link href="http://dev.concordialutheranwatertown.com/announcements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ECLA Good Gifts and God&#39;s Global Barnyard</title>
+      <link>http://dev.concordialutheranwatertown.com/announcements/ecla-good-gifts/</link>
+      <pubDate>Mon, 19 Nov 2018 12:14:42 -0600</pubDate>
+      
+      <guid>http://dev.concordialutheranwatertown.com/announcements/ecla-good-gifts/</guid>
+      <description>You can enhance people&amp;rsquo;s lives for the better by participating in ELCA Good Gifts and God&amp;rsquo;s Global Barnyard purchasing items such as food, water filters, pigs or goats. For more information, see the display in the church fellowship hall or read pages 2 and 3 in the October/November Concordia Trumpet Newsletter.</description>
+    </item>
+    
+    <item>
+      <title>November Budget Meeting</title>
+      <link>http://dev.concordialutheranwatertown.com/announcements/201811-budget-meeting/</link>
+      <pubDate>Mon, 19 Nov 2018 12:14:42 -0600</pubDate>
+      
+      <guid>http://dev.concordialutheranwatertown.com/announcements/201811-budget-meeting/</guid>
+      <description>Attend a short budget meeting on November 18 after Sunday worship as we approve Concordia&amp;rsquo;s financial plan for 2019.</description>
+    </item>
+    
+    <item>
+      <title>2018 Pumpkin Painting</title>
+      <link>http://dev.concordialutheranwatertown.com/announcements/2018-pumpkin-painting/</link>
+      <pubDate>Sun, 14 Oct 2018 17:52:17 -0600</pubDate>
+      
+      <guid>http://dev.concordialutheranwatertown.com/announcements/2018-pumpkin-painting/</guid>
+      <description>Youth Group and Sunday School students can enjoy a fall activity as they paint pumpkins on Sunday, October 14 and auction them off on Sunday, October 28th.</description>
+    </item>
+    
+  </channel>
+</rss>
